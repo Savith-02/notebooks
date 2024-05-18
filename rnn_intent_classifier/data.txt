@@ -1,0 +1,412 @@
+Intent,Example
+Greet,Hi
+Greet,Hello
+Greet,Hey there
+Greet,Good morning
+Greet,Howdy
+Greet,Hi there
+Greet,Hey
+Greet,Good afternoon
+Greet,Hello there
+Greet,Hi how can I help you?
+Greet,Good to see you
+Greet,Hey what's up?
+Greet,Hiya
+Greet,Hey how are you doing?
+Greet,Hello nice to meet you
+Greet,Hi how's it going?
+Greet,Hey buddy
+Greet,Hi how have you been?
+Greet,Hello how's everything?
+Greet,Hey there how can I assist you?
+Greet,Hi friend
+Greet,Hello what's new?
+Greet,Hey long time no see
+Greet,Hi what's happening?
+Greet,Hello it's good to talk to you
+Greet,Hey what have you been up to?
+Greet,Hi nice to see you
+Greet,Hello how's your day going?
+Farewell,Goodbye
+Farewell,See you later
+Farewell,Take care
+Farewell,Bye for now
+Farewell,Have a good one
+Farewell,Bye
+Farewell,Until next time
+Farewell,See you soon
+Farewell,Adios
+Farewell,Take it easy
+Farewell,Take care now
+Farewell,Bye bye
+Farewell,Until we meet again
+Farewell,Goodnight
+Farewell,So long
+Farewell,See you tomorrow
+Farewell,Have a great day
+Farewell,See ya
+Farewell,Bye for now
+Farewell,Until later
+Farewell,Catch you later
+Farewell,Goodbye for now
+Farewell,Until next time
+Farewell,Take care of yourself
+Farewell,Take it easy now
+Inquiry,What's the weather like today?
+Inquiry,Can you tell me the time?
+Inquiry,Where is the nearest restaurant?
+Inquiry,How do I get to the nearest bus stop?
+Inquiry,What are the top tourist attractions?
+Inquiry,What's the latest news?
+Inquiry,How many calories in a banana?
+Inquiry,Who won the game last night?
+Inquiry,Where can I find a good book?
+Inquiry,What's the best pizza place in town?
+Inquiry,Where can I buy tickets?
+Inquiry,What's the capital of France?
+Inquiry,How do I reset my password?
+Inquiry,What's the meaning of this word?
+Inquiry,Where can I rent a car?
+Inquiry,What's the closest pharmacy?
+Inquiry,How far is the nearest airport?
+Inquiry,Where can I find a good cup of coffee?
+Inquiry,What's the best way to learn Python?
+Inquiry,What's the population of New York City?
+Inquiry,What's the exchange rate for euros?
+Inquiry,How do I make a reservation?
+Inquiry,What's the best hiking trail?
+Inquiry,How do I contact customer support?
+Inquiry,Where is the nearest gas station?
+Inquiry,What's the fastest way to get to downtown?
+Feedback,This service is great!
+Feedback,I'm satisfied with the support.
+Feedback,The response time was excellent.
+Feedback,Your assistance was very helpful.
+Feedback,I appreciate your help.
+Feedback,Thanks for your help.
+Feedback,I'm happy with the outcome.
+Feedback,You did a fantastic job.
+Feedback,The service exceeded my expectations.
+Feedback,I'm really pleased with the service.
+Feedback,Great job keep it up!
+Feedback,Your team is doing an excellent job.
+Feedback,Excellent service thank you.
+Feedback,You've been very helpful thanks.
+Feedback,Thanks for going above and beyond.
+Feedback,The support team is very responsive.
+Feedback,The assistance provided was exceptional.
+Feedback,Thank you for your prompt response.
+Feedback,Your help was invaluable thank you.
+Feedback,I'm impressed with the quality of service.
+Feedback,You've been very professional thanks.
+Complaint,I'm unhappy with the product.
+Complaint,The service was terrible.
+Complaint,My order was incorrect.
+Complaint,The quality of the product is poor.
+Complaint,I'm disappointed with the experience.
+Complaint,The customer service was unsatisfactory.
+Complaint,There was a problem with my order.
+Complaint,I'm dissatisfied with the outcome.
+Complaint,The delivery was late.
+Complaint,The product didn't meet my expectations.
+Complaint,I've had a bad experience with your company.
+Complaint,The website is difficult to navigate.
+Complaint,The service was below par.
+Complaint,There was a mistake in my bill.
+Complaint,The product is defective.
+Complaint,I'm frustrated with the service.
+Complaint,The customer support was unhelpful.
+Complaint,The experience was disappointing.
+Complaint,There was an error in my order.
+Complaint,The product didn't work as expected.
+Request,Can you provide more information?
+Request,Please send me the details.
+Request,I need assistance with this issue.
+Request,Could you help me with this problem?
+Request,Please clarify this point.
+Request,Can you explain this further?
+Request,I'm requesting additional support.
+Request,Please assist me with this matter.
+Request,Can you help me understand this?
+Request,Please provide further details.
+Request,Can you explain how this works?
+Request,Can you assist me with this issue?
+Request,Please give me more information about this.
+Request,I'm looking for help with this issue.
+Request,Can you guide me through this process?
+Request,Can you provide a solution for this problem?
+Request,Please help me resolve this issue.
+Request,Can you give me some advice on this?
+Request,Please provide assistance with this problem.
+Request,I'm seeking help with this matter.
+Request,Can you provide support for this issue?
+Navigation,Go to settings
+Navigation,Show me more options
+Navigation,Can I see previous results
+Navigation,Take me back
+Navigation,Restart from the beginning
+Navigation,Open a new search
+Navigation,Can we explore a different topic
+Navigation,Is there anything else I can help you with
+Navigation,Show me help options
+Navigation,What can I do here
+Navigation,Can I navigate by voice
+Navigation,Skip this step
+Navigation,Move on to the next section
+Navigation,Can I come back to this later
+Navigation,Save my progress
+Navigation,Is there a way to customize this
+Navigation,Show advanced options
+Navigation,Open the main menu
+Navigation,Can I search by specific criteria
+Navigation,Filter by category
+Navigation,Sort by date
+Navigation,Can I see related content
+Navigation,Open this in a new window
+Navigation,Print this page
+Navigation,Can I share this
+Navigation,Logout
+Navigation,Exit program
+Navigation,Close this window
+Navigation,Take a break
+Confirmation,You got it!
+Confirmation,No problem I understand.
+Confirmation,Absolutely consider it done.
+Confirmation,Sounds perfect let's move forward.
+Confirmation,Crystal clear we're on the same page.
+Confirmation,That's great thanks for clarifying.
+Confirmation,I can definitely confirm that.
+Confirmation,No worries everything is set.
+Confirmation,Glad to hear we're in agreement.
+Confirmation,Excellent let's get started.
+Confirmation,You bet I've got it covered.
+Confirmation,Sounds like a plan ready when you are.
+Confirmation,Perfect we can proceed with confidence.
+Confirmation,Absolutely! Let me know if you have any further questions.
+Confirmation,That's exactly what I understood.
+Confirmation,No problem at all I'm happy to confirm.
+Confirmation,I've double-checked and everything looks good to go.
+Confirmation,Consider it confirmed you can rely on it.
+Confirmation,Sounds fantastic let's make it happen.
+Confirmation,You've got it everything is confirmed on my end.
+Confirmation,That's a great choice I'm happy to confirm that for you.
+Confirmation,No sweat I've taken care of the confirmation.
+Confirmation,Positive confirmation we're all set.
+Confirmation,Excellent let's move forward with this plan.
+Confirmation,You're all good everything is confirmed as requested.
+Confirmation,Sounds like a deal let's get this done!
+Confirmation,Absolutely confirmed you can count on it.
+Confirmation,No problem I've got your confirmation right here.
+Confirmation,We're on the same page everything is confirmed.
+Feedback,This is incredibly helpful thank you for your assistance.
+Feedback,The accuracy of the results is impressive.
+Feedback,I found the overall experience to be quite user-friendly.
+Feedback,This system has made my work process much more efficient.
+Feedback,I would really appreciate it if you could add a feature for ...
+Feedback,The design of the interface is very clean and intuitive.
+Feedback,It would be great if the system could provide more detailed explanations.
+Feedback,Overall I'm very satisfied with the performance of this tool.
+Feedback,I would definitely recommend this system to others.
+Feedback,The search functionality is particularly powerful and effective.
+Feedback,It's clear that a lot of thought and effort went into developing this system.
+Feedback,I'm having a little trouble understanding some of the terminology used.
+Feedback,The response time is very fast which is much appreciated.
+Feedback,I would love to see more customization options available.
+Feedback,This is a valuable resource that I will be using frequently.
+Feedback,The integration with other tools is seamless and convenient.
+Feedback,There's a slight learning curve but overall it's easy to pick up.
+Feedback,I'm impressed with the level of detail provided in the results.
+Feedback,It would be helpful if there were some video tutorials available.
+Feedback,This system is a great example of innovative technology.
+Feedback,I can see the potential for this system to have a significant impact.
+Feedback,The customer support team was very responsive and helpful.
+Feedback,I'm excited to see how this system continues to develop in the future.
+Feedback,This is exactly what I was looking for thank you!
+Feedback,The data visualization tools are very informative and easy to understand.
+Feedback,I would be happy to provide additional feedback if needed.
+Feedback,This system has exceeded my expectations in many ways.
+Feedback,I'm confident that this system will be a valuable asset to my work.
+Feedback,The overall user experience is very positive.
+Complaint,I'm unable to find the information I'm looking for.
+Complaint,The instructions are confusing and difficult to follow.
+Complaint,The system keeps asking me to repeat myself.
+Complaint,The voice recognition feature isn't working properly.
+Complaint,This feature is missing functionality that I need.
+Complaint,The loading times are very slow and frustrating.
+Complaint,The system crashed while I was in the middle of a task.
+Complaint,I'm disappointed with the limited number of customization options.
+Complaint,The data visualizations are difficult to interpret.
+Complaint,I don't feel like the system understands my questions.
+Complaint,The customer support wait times are too long.
+Complaint,I'm not receiving any notifications about updates.
+Complaint,The system seems biased towards certain viewpoints.
+Complaint,The interface is cluttered and overwhelming.
+Complaint,I'm concerned about the security of my personal information.
+Complaint,This feature seems buggy and unreliable.
+Complaint,The system keeps logging me out unexpectedly.
+Complaint,I'm frustrated with the lack of progress on fixing known issues.
+Complaint,The system is not accessible for users with disabilities.
+Complaint,The pricing model is too expensive for my needs.
+Complaint,The terms of service are unclear and restrictive.
+Complaint,I'm not satisfied with the quality of the customer service I received.
+Complaint,The system feels outdated and in need of an upgrade.
+Complaint,I'm disappointed with the overall performance of this tool.
+Complaint,This feature feels like a step backwards from previous versions.
+Complaint,The system is not meeting my expectations.
+Complaint,I feel like I'm wasting my time trying to use this system.
+Complaint,The system is not user-friendly at all.
+Complaint,I regret purchasing this product.
+Complaint,This is the worst experience I've had with a software program.
+Feedback,The search results for 'pizza' were excellent!
+Feedback,The layout of the dashboard could be improved for better readability.
+Feedback,Adding a tutorial for beginners would be very helpful.
+Feedback,I'd love to see a feature that allows users to create custom reports.
+Feedback,This system is much faster than the previous version I used.
+Feedback,The customer service here is far more responsive than others.
+Feedback,This app has been a lifesaver for me!
+Feedback,I'm a bit frustrated by the limited functionality of this feature.
+Feedback,The overall user experience is satisfactory.
+Feedback,The performance of the system seems average.
+Feedback,This feature is very helpful and informative.
+Feedback,The design of the interface is clean and user-friendly.
+Feedback,It would be great if the system could provide more context in the results.
+Feedback,I'm impressed with the level of detail provided in the explanations.
+Feedback,The data visualization tools are very clear and easy to understand.
+Feedback,I would be happy to provide more feedback if needed in the future.
+Feedback,This system has exceeded my expectations in many ways.
+Feedback,I'm confident that this system will be a valuable asset to my work.
+Feedback,The overall user experience is very positive.
+Complaint,I'm getting an error message whenever I try to upload a file.
+Complaint,The audio quality on the video call is very poor.
+Complaint,Having to log in every time is quite annoying.
+Complaint,The long wait times for customer support are unacceptable.
+Complaint,The website is not accessible for users with visual impairments.
+Complaint,The lack of language options makes it difficult for me to use this system.
+Complaint,The product description did not accurately reflect its capabilities.
+Complaint,The advertised features are not actually available.
+Complaint,I'm concerned about the privacy policies of this app.
+Complaint,The system seems biased towards certain demographics.
+Complaint,The app keeps crashing unexpectedly.
+Complaint,I'm frustrated with the lack of progress on fixing known issues.
+Complaint,The system is not accessible for users with disabilities.
+Complaint,The pricing model is too expensive for my needs.
+Complaint,The terms of service are unclear and restrictive.
+Complaint,I'm not satisfied with the quality of the customer service I received.
+Complaint,The system feels outdated and in need of an upgrade.
+Complaint,I regret purchasing this product.
+Confirmation,You got it!
+Confirmation,No problem I understand.
+Confirmation,Absolutely consider it done.
+Confirmation,Sounds perfect let's move forward.
+Confirmation,Crystal clear we're on the same page.
+Confirmation,That's great thanks for clarifying.
+Confirmation,I can definitely confirm that.
+Confirmation,No worries everything is set.
+Confirmation,Glad to hear we're in agreement.
+Confirmation,Excellent let's get started.
+Confirmation,You bet I've got it covered.
+Confirmation,Sounds like a plan ready when you are.
+Confirmation,Perfect we can proceed with confidence.
+Confirmation,Absolutely! Let me know if you have any further questions.
+Confirmation,That's exactly what I understood.
+Confirmation,No problem at all I'm happy to confirm.
+Confirmation,I've double-checked and everything looks good to go.
+Confirmation,Consider it confirmed you can rely on it.
+Confirmation,Sounds fantastic let's make it happen.
+Confirmation,You've got it everything is confirmed on my end.
+Confirmation,That's a great choice I'm happy to confirm that for you.
+Confirmation,No sweat I've taken care of the confirmation.
+Confirmation,Positive confirmation we're all set.
+Confirmation,Excellent let's move forward with this plan.
+Confirmation,You're all good everything is confirmed as requested.
+Confirmation,Sounds like a deal let's get this done!
+Confirmation,Absolutely confirmed you can count on it.
+Confirmation,No problem I've got your confirmation right here.
+Confirmation,We're on the same page everything is confirmed.
+Feedback,This is incredibly helpful thank you for your assistance.
+Feedback,The accuracy of the results is impressive.
+Feedback,I found the overall experience to be quite user-friendly.
+Feedback,This system has made my work process much more efficient.
+Feedback,I would really appreciate it if you could add a feature for ...
+Feedback,The design of the interface is very clean and intuitive.
+Feedback,It would be great if the system could provide more detailed explanations.
+Feedback,Overall I'm very satisfied with the performance of this tool.
+Feedback,I would definitely recommend this system to others.
+Feedback,The search functionality is particularly powerful and effective.
+Feedback,It's clear that a lot of thought and effort went into developing this system.
+Feedback,I'm having a little trouble understanding some of the terminology used.
+Feedback,The response time is very fast which is much appreciated.
+Feedback,I would love to see more customization options available.
+Feedback,This is a valuable resource that I will be using frequently.
+Feedback,The integration with other tools is seamless and convenient.
+Feedback,There's a slight learning curve but overall it's easy to pick up.
+Feedback,I'm impressed with the level of detail provided in the results.
+Feedback,It would be helpful if there were some video tutorials available.
+Feedback,This system is a great example of innovative technology.
+Feedback,I can see the potential for this system to have a significant impact.
+Feedback,The customer support team was very responsive and helpful.
+Feedback,I'm excited to see how this system continues to develop in the future.
+Feedback,This is exactly what I was looking for thank you!
+Feedback,The data visualization tools are very informative and easy to understand.
+Feedback,I would be happy to provide additional feedback if needed.
+Feedback,This system has exceeded my expectations in many ways.
+Feedback,I'm confident that this system will be a valuable asset to my work.
+Feedback,The overall user experience is very positive.
+Navigation,Open my calendar.
+Navigation,Go back to the search results.
+Navigation,Can I see my recent browsing history?
+Navigation,Take me to the settings page.
+Navigation,Is there a way to filter these results?
+Navigation,Can I sort these items by price?
+Navigation,Show me more options for travel destinations.
+Navigation,Is there a help section available?
+Navigation,Can I access this information in a different format?
+Navigation,Open a new tab to search for flights.
+Navigation,Can I bookmark this page for later?
+Navigation,Is there a way to print this document?
+Navigation,Can I share this article with a friend?
+Navigation,Log me out of this account.
+Navigation,Close this window and return to the main menu.
+Navigation,Can I take a break and come back to this later?
+Navigation,Is there a way to save my progress on this task?
+Navigation,Can I customize the layout of this page?
+Navigation,Show me advanced search options.
+Navigation,Can I search by specific criteria like brand or color?
+Navigation,Is there a way to refine my search query?
+Navigation,Can I see related content to this topic?
+Navigation,Open this link in a new window.
+Navigation,Can I navigate using voice commands?
+Navigation,Skip this step and move on to the next section.
+Navigation,Can I go back and edit my previous answer?
+Navigation,Is there a way to provide feedback on this system?
+Navigation,Can I access my account information?
+Navigation,Show me a tutorial on how to use this feature.
+Request,Can you summarize this article for me?
+Request,I'd like to schedule a meeting for tomorrow at 2 pm.
+Request,Could you please translate this text into Spanish?
+Request,Is there a way to contact customer service?
+Request,Can you recommend some restaurants near me that serve Italian food?
+Request,I'd like to set an alarm for 7 am tomorrow morning.
+Request,Could you show me pictures of different dog breeds?
+Request,Can you help me find a recipe for chocolate chip cookies?
+Request,I'd like to book a hotel room in Paris for next weekend.
+Request,Is there a way to play music on this device?
+Request,Could you show me the weather forecast for the next week?
+Request,I'd like to see a definition for the word "ambiguous."
+Request,Can you help me find a gift for my mother's birthday?
+Request,I'd like to order a ride-sharing service to take me to the airport.
+Request,Could you show me a map of the city center?
+Request,Is there a way to add this item to my shopping cart?
+Request,I'd like to see a list of upcoming movies playing in theaters.
+Request,Can you help me track my package delivery?
+Request,I'd like to see reviews for this product before I buy it.
+Request,Could you show me some tutorials on how to fix a leaky faucet?
+Request,Is there a way to connect with a live person for assistance?
+Request,I'd like to see a list of the top news stories today.
+Request,Can you play a song by my favorite artist?
+Request,I'd like to see some historical facts about the Roman Empire.
+Request,Could you show me a calendar of upcoming events in my city?
+Request,Is there a way to change the language settings on this device?
+Request,I'd like to see a list of public transportation options available.
+Request,Can you help me find a doctor who specializes in allergies?
+Request,I'd like to see a list of ingredients for this recipe.
